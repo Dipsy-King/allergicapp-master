@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu-container {
+
+    padding: 20px;
+}
+
+.menu-container a {
+    text-decoration:none;
+}
+
+.menu-container  a:visited {
+    color: black;
+
+}
+
+.cursor a {
+    cursor: pointer;
+}
